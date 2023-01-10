@@ -1,0 +1,42 @@
+#left h2 {
+  margin-left: auto;
+  border: 2px solid red;
+  width: 100%;
+}
+
+#left {
+  text-align: right;
+  margin-left: auto;
+}
+
+#instagram_title .beautium-subheading {
+  font-size: 150px;
+}
+
+#instagram__header {
+  position: relative;
+  bottom: -180px;
+  z-index: 2;
+}
+
+@media (max-width: 800px) {
+  #left h2 {
+    margin-left: auto;
+    width: 100%;
+  }
+
+  #left {
+    text-align: right;
+    margin-left: auto;
+  }
+
+  #instagram_title .beautium-subheading {
+    font-size: 60px;
+  }
+
+  #instagram__header {
+    position: relative;
+    bottom: -60px;
+    z-index: 2;
+  }
+}
