@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 @font-face {
     font-family: 'Caramello Free';
     src: url('https://g2h4v2c9.stackpathcdn.com/themes/beautium/wp-content/themes/beautium/fonts/caramello-free.ttf?x18483') format('truetype');
