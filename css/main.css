@@ -49,3 +49,22 @@ html{
 .page-loader-container img{
     width: 600px;
 }
+
+.team-socials.wrapper-socials a{
+  color: #ffbe0b !important;
+}
+
+.footer-scroll-top{
+  background-color: #ffbe0b !important;
+}
+
+:root{
+  --color-text:rgb(134, 134, 134);
+  --text-font-h1: serif ;
+}
+
+
+h1{
+  font-family: var(--text-font-h1);
+  color: var(--color-text);
+}
