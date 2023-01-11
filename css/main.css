@@ -24,16 +24,36 @@ html{
 }
 
 #hero__banner-img{
-  object-position: -215px ;
+  /* object-position: -215px ; */
 }
 
-.owl-dots.owl-dots-8a51304 , .beautium-subheading{
+.owl-dots.owl-dots-8a51304 , .beautium-subheading , .widget-wrapper a{
   color: #ffbe0b !important;
 }
 
+.widget-wrapper .wp-element-button{
+  color: #fff !important;
+}
+.beautium-button{
+  color: #000 !important;
+}
+.beautium-button:hover{
+  color: #fff !important;
+}
+
+.widget-wrapper .wp-element-button:hover{
+  color: #000 !important;
+}
+
+
+.owl-dots.owl-dots-8a51304, .beautium-subheading, .widget-wrapper a {
+  color: #ffbe0b !important;
+}
+
+
 @media (max-width: 800px) {
   #hero__banner-img{
-    object-position: -166px ;
+    /* object-position: -166px ; */
   }
   #left h2 {
     margin-left: auto;
@@ -106,4 +126,15 @@ h1{
 
 #jamoamiz .team-item-socials {
   display: none;
+}
+
+.beautium-testimonial-carousel-widget .active.testimonial-carousel-wrapper:before{
+  color: #ffbe0b !important;
+
+}
+
+
+
+.owl-dot.active span{
+  border: 2px solid #ffbe0b !important;
 }
