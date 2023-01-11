@@ -1,6 +1,10 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
 #left h2 {
   margin-left: auto;
-  border: 2px solid red;
   width: 100%;
 }
 
@@ -39,4 +43,9 @@
     bottom: -60px;
     z-index: 2;
   }
+}
+
+
+.page-loader-container img{
+    width: 600px;
 }
