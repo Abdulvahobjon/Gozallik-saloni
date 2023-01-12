@@ -31,3 +31,33 @@ btnItem.forEach((item) => {
     addItem(item);
   });
 });
+
+// $(document).ready(function(){
+//     $('#menu-main-menu-1  li ').click(function(event){
+//         $('#menu-main-menu-1  li').addClass('menu-item-has-children');
+//         $('#menu-main-menu-1  li').addClass('menu-item-48');
+//         $(this).removeClass("current-menu-ancestor")
+//         $(this).removeClass("current-menu-parent")
+//         $(this).removeClass("menu-item-has-children")
+//         $(this).removeClass("menu-item-47")
+//         thisAttrHref = $(this).attr('href')
+//         thisAttrHrefOffset = $(thisAttrHref).affset().top+50
+//         $("html , body").animate({scrollTop: thisAttrHrefOffset});
+//         // event.preventDefa
+//     })
+// })
+
+// $(window).scroll(function(){
+//     $("#menu-main-menu-1 li").each(function(){
+//         containerRowTop  = $(this).offset().top;
+//         if($(document).scrollTop() > containerRowTop){
+//             thisOfs = $(this).attr("id")
+//             $(".menu-main-menu-1 li").removeClass('menu-item-has-children')
+//             $(".menu-main-menu-1 li").removeClass('menu-item-48')
+//             ActiveID = $(this).addClass("current-menu-ancestor").attr('id')
+//             ActiveID = $(this).addClass("current-menu-parent").attr('id')
+//             ActiveID = $(this).addClass("menu-item-has-children").attr('id')
+//             ActiveID = $(this).addClass("menu-item-47").attr('id')
+//         }
+//     })
+// })
