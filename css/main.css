@@ -184,3 +184,23 @@ h1{
 .header .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .mobile-header .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .header .main-menu>li>a:before, .header .mini-cart .mini-cart-count>span, .mobile-header .mini-cart .mini-cart-count>span {
   background-color: #ffbe0b;
 }
+
+
+/* .beautium-heading .beautium-subheading {
+  margin: 0 0 0 -.3em;
+} */
+
+
+#headering-uz .beautium-heading .beautium-subheading {
+  margin: 0 0 0 -2.275em;
+}
+
+
+#tailwind-section .beautium-heading-content{
+  font-size: 65px !important;
+  font-family: Kinghood, Arial, Helvetica, sans-serif;
+  text-align: left;
+  /* border: 2px solid red; */
+}
+
+
