@@ -181,3 +181,8 @@ h1{
   border: 2px solid #ffbe0b !important;
 }
 
+.header .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .mobile-header .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .header .main-menu>li>a:before, .header .mini-cart .mini-cart-count>span, .mobile-header .mini-cart .mini-cart-count>span {
+  background-color: #ffbe0b;
+}
+
+.menu-main-menu-1{}
