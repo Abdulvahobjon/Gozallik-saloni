@@ -50,6 +50,42 @@ html{
   color: #ffbe0b !important;
 }
 
+#oq a{
+  background-color: #fff  ;
+  border: 1px solid #000
+  ;
+}
+
+.elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button {
+  color: #000;
+  border-color: #000;
+  background-color: transparent;
+}
+
+.elementor-widget-video .elementor-custom-embed-play .eicon-play svg, .beautium-video-button .elementor-custom-embed-play .eicon-play svg{
+  stroke:#ffbe0b ;
+}
+
+.elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:before, .elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:after{
+  border-color: #000;
+}
+
+.elementor-widget-beautium_special_text .special-text.special-text-effect-fill, .elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar, .filter-control-wrapper .filter-control-list .dots .dot:after, .elementor-widget-beautium_custom_menu ul li a:hover:after, .elementor-widget-beautium_custom_menu ul li.active a:after, .slider-progress-wrapper .slider-progress-track .progress, .footer-scroll-top, .single-post .post-meta-footer .post-meta-item.post-meta-item-socials .wrapper-socials li:hover:before, .single-post .post-meta-footer .post-meta-item.post-meta-item-socials .wrapper-socials li:hover:after, .portfolio-listing-wrapper .portfolio-item-wrapper .portfolio-item-content:before, .owl-dots .owl-dot.active span:after, .woocommerce .quantity-wrapper.styled .btn-plus:hover .icon:before, .woocommerce .quantity-wrapper.styled .btn-plus:hover .icon:after, .woocommerce .quantity-wrapper.styled .btn-minus:hover .icon:before, .elementor-widget-video .elementor-custom-embed-play .eicon-play:before, .beautium-video-button .elementor-custom-embed-play .eicon-play:before, .mini-cart:hover .mini-cart-count>span, .header.sticky-active .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .mobile-header-menu-container .dropdown-trigger:hover .dropdown-trigger-icon .icon>span, .header.sticky-active .main-menu>li>a:before, .header.sticky-active .mini-cart .mini-cart-count>span, .mobile-header-menu-container .mini-cart .mini-cart-count>span, .swiper-container .swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active:after, .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active:after{
+  background-color: #ffbe0b;
+}
+
+.elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:hover:before, .elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:hover:after{
+  background-color: #ffbe0b;
+}
+
+.elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:hover:before, .elementor-19 .elementor-element.elementor-element-24cfb97 .elementor-repeater-item-01c8bb7 .beautium-button:hover:after{
+  border-color: #ffbe0b;
+}
+
+#form-preview button:hover:before, #form-preview button:hover:after, .beautium-button:hover:before, .beautium-button:hover:after, .body-container button:not(.customize-partial-edit-shortcut-button):hover:before, .body-container button:not(.customize-partial-edit-shortcut-button):hover:after, div.wpforms-container.wpforms-container-full .wpforms-form button[type=submit]:hover:before, div.wpforms-container.wpforms-container-full .wpforms-form button[type=submit]:hover:after, div.wpforms-container.wpforms-container-full .wpforms-form .wpforms-page-button:hover:before, div.wpforms-container.wpforms-container-full .wpforms-form .wpforms-page-button:hover:after, .woocommerce a.button:hover:before, .woocommerce a.button:hover:after, .woocommerce a.button.alt:hover:before, .woocommerce a.button.alt:hover:after, .woocommerce button.button:hover:before, .woocommerce button.button:hover:after, .woocommerce button.button.alt:hover:before, .woocommerce button.button.alt:hover:after, .woocommerce input.button:hover:before, .woocommerce input.button:hover:after, .woocommerce #respond input#submit:hover:before, .woocommerce #respond input#submit:hover:after, .elementor-widget-beautium_button .beautium-button:hover:before, .elementor-widget-beautium_button .beautium-button:hover:after, .header.sticky-active a.beautium-button:hover:before, .header.sticky-active a.beautium-button:hover:after, .mobile-header-menu-container a.beautium-button:hover:before, .mobile-header-menu-container a.beautium-button:hover:after{
+  border-color: #ffbe0b;
+
+}
 
 @media (max-width: 800px) {
   #hero__banner-img{
@@ -134,7 +170,14 @@ h1{
 }
 
 
+.slide-sidebar-wrapper .slide-sidebar-close:before, .slide-sidebar-wrapper .slide-sidebar-close:after {
+  background: linear-gradient(90deg, #ffbe0b 0 36%, transparent 36% 56%, #ffbe0b 56% 100%);
+  -webkit-background-size: 270% 100%;
+  background-size: 270% 100%;
+  background-position-x: 100%;
+}
 
 .owl-dot.active span{
   border: 2px solid #ffbe0b !important;
 }
+
