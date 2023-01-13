@@ -90,4 +90,4 @@ setInterval(function(){
   }else{
     num = 1
   }
-} , 1000)
+} , 1500)
